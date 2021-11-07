@@ -1,0 +1,31 @@
+.center {
+margin-top:0px;
+  margin: auto;
+  width: 60%;
+ background-color:#F8FCF8;
+text-align: justify;
+  padding: 30px;
+ 
+ font-family: 'Open Sans', sans-serif;
+color: #272926;
+}
+
+body
+{
+background-color: #56A72E;
+}
+
+.header
+{
+background-image: url("tlo1.jpg");
+background-repeat: no-repeat; background-size: cover;;
+text-align:center;
+margin-top:0px;
+  margin: auto;
+height:95px;
+color:#ffffff;
+width:64%;
+border-style:solid;
+
+
+}

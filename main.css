@@ -1,0 +1,59 @@
+body
+{
+background-color: #42631A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+	margin-left: 0px;
+	margin-top: 0px;
+margin-right: 0px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #393B39;
+	margin-top: 20px;
+}
+
+
+header
+{
+background-image: url("tlo1.jpg");
+background-repeat: no-repeat; background-size: cover;
+font-weight: bold;
+
+margin-top: 0px;
+height:100px;
+color:#FFFFFF;
+  border-bottom-style: solid;
+  border-color: #191B17;
+
+}
+
+.jumpers
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	text-align: center;
+	padding: 0px;
+font-weight: bold;
+background-color:#F8FCF8;
+}
+
+.jumper
+{
+	display: inline-block;
+	width: 30%;
+}
+
+.jumper img
+{
+	width: 100%;
+}
+
+.jumper figure
+{
+	margin: 10px;
+}
