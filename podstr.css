@@ -29,3 +29,10 @@ border-style:solid;
 
 
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
